@@ -1,4 +1,4 @@
-# Data and Analysis Scripts
+# Data and Analysis Script
 
 --------------------------------------------------------------
 DATA-SPECIFIC INFORMATION FOR: formanti.csv
