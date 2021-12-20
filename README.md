@@ -15,7 +15,7 @@ DATA-SPECIFIC INFORMATION FOR: formanti.csv
 7   F3            Third formant frequencies (Hz)
 
 --------------------------------------------------------------
-DATA-SPECIFIC INFORMATION FOR: formanti.csv
+DATA-SPECIFIC INFORMATION FOR: formantie.csv
 --------------------------------------------------------------
 
 #	Variable	Explanation
