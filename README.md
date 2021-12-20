@@ -4,7 +4,7 @@
 DATA-SPECIFIC INFORMATION FOR: formanti.csv
 --------------------------------------------------------------
 
-#	Variable	Explanation
+**Variable	Explanation**
 
 1	  ID	          Unique identified for each target word. 
 2	  Stimulus		  Target words with either /ɪ/ or /i/ as syllable nucleus
@@ -18,7 +18,7 @@ DATA-SPECIFIC INFORMATION FOR: formanti.csv
 DATA-SPECIFIC INFORMATION FOR: formantie.csv
 --------------------------------------------------------------
 
-#	Variable	Explanation
+**Variable	Explanation**
 
 1	  ID	          Unique identified for each target word. 
 2	  Stimulus		  Target words with either /ɪ/ or /i/ as syllable nucleus
@@ -32,7 +32,7 @@ DATA-SPECIFIC INFORMATION FOR: formantie.csv
 DATA-SPECIFIC INFORMATION FOR: LexDecTask.csv
 --------------------------------------------------------------
 
-#	Variable	Explanation
+**Variable	Explanation**
 
 1	  Participant	      Participants ID, which consists of a unique code of two letters and two numbers. 
 2	  Item		          The set of stimuli materials used in the LDT, which contains both words and non-words. 
@@ -47,7 +47,7 @@ DATA-SPECIFIC INFORMATION FOR: LexDecTask.csv
 DATA-SPECIFIC INFORMATION FOR: PhonCatTask.csv
 --------------------------------------------------------------
 
-#	Variable	Explanation
+**Variable	Explanation**
 
 1	  Participant	      Participants ID, which consists of a unique code of two letters and two numbers. 
 2	  Item		          The set of stimuli materials that used in the PCT, i.e. 5 minimal word pairs. 
